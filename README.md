@@ -1,6 +1,5 @@
 Chess by MCH170
-
-Shared under European Union Public License 1.1
+Made in quarantine because I was bored.
 
 
 White pieces are represented by capital letters, black pieces by non-capital letters.
